@@ -1,0 +1,11 @@
+Notes:
+"SAMPLE DATA: made-up people at real companies. Replace with your own LinkedIn export in data/Connections.csv."
+
+First Name,Last Name,URL,Email Address,Company,Position,Connected On
+Sample,Person1,https://www.linkedin.com/in/sample-1,,Riot Games,Senior Recruiter - Art & Design,12 Mar 2024
+Sample,Person2,https://www.linkedin.com/in/sample-2,,Riot Games Ltd,Art Director,03 Jun 2023
+Sample,Person3,https://www.linkedin.com/in/sample-3,,Intercom,Head of Product Design,07 Jul 2023
+Sample,Person4,https://www.linkedin.com/in/sample-4,,Salesforce,Talent Partner,15 Feb 2025
+Sample,Person5,https://www.linkedin.com/in/sample-5,,Amazon Web Services (AWS),Product Leader,09 Sep 2024
+Sample,Person6,https://www.linkedin.com/in/sample-6,,Freelance,Designer,01 Jan 2024
+Sample,Person7,https://www.linkedin.com/in/sample-7,,Example Bank,Financial Analyst,01 Mar 2022

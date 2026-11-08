@@ -1,0 +1,8 @@
+# Personal data never goes in the repo: your CV, your LinkedIn export,
+# the generated profile, run outputs and your own settings.
+data/*
+!data/.gitkeep
+runs/
+config/settings.json
+.DS_Store
+__pycache__/

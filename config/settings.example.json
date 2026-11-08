@@ -1,0 +1,16 @@
+{
+  "_comment": "Copy this file to config/settings.json and fill it in. settings.json is git-ignored.",
+  "candidate_name": "Alex Example",
+  "cv_files": ["data/my-cv.pdf"],
+  "portfolio_urls": ["https://example.com"],
+  "connections_file": "data/Connections.csv",
+  "home_location": "Dublin, Ireland",
+  "work_rights": "EU citizen; no sponsorship needed in the EU",
+  "defaults": {
+    "country": "Ireland",
+    "industries": ["Consumer & Big Tech", "SaaS / B2B Software"],
+    "cv_threshold": 70,
+    "max_job_age_days": 30
+  },
+  "google_drive_folder": "Job Report"
+}
